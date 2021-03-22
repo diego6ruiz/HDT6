@@ -75,7 +75,7 @@ public class Main {
 					hm.agregarHM(producto, cate, produ, canti);
 				}
 			}
-			else if (num.equals("2s")) {
+			else if (num.equals("2")) {
 				
 				System.out.println("Ingrese 1 para ver la inforamcion completa, 2 para ver los detalles de un articulo, 3 para buscar mostrar la categoria segun el producto, 4 para agreagr un articulo");
 				String num3 = entrada.next();
